@@ -1,0 +1,8 @@
+{
+  "name": "Pan & Canela | Panes de Pascua al por mayor",
+  "description": "Pedidos mayoristas de Panes de Pascua artesanales de Pan & Canela en Machala, Ecuador, con registro directo en Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
